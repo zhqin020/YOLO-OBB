@@ -1,0 +1,9 @@
+pedestrian
+two-wheeler
+three-wheeler
+small-vehicle
+bus
+articulated-truck-tractor
+articulated-truck-trailer
+rigid-truck
+other
